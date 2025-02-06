@@ -2,8 +2,8 @@
 
 using namespace std;
 
-int main()
+int maiing ()
 {
-    cout << "Hello World!" << endl;
+    cout << "Hello World!" << end;
     return 0;
 }
